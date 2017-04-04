@@ -1,0 +1,62 @@
+{
+  "name": "r2middleware",
+  "description": "Express middlewares for r2js",
+  "version": "1.0.0",
+  "author": "Selçuk Fatih Sevinç",
+  "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "compression": "^1.6.2",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.3",
+    "csurf": "^1.9.0",
+    "debug": "^2.6.3",
+    "helmet": "^3.5.0",
+    "method-override": "^2.3.8",
+    "morgan": "^1.8.1",
+    "response-time": "^2.3.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "mocha": "^3.2.0",
+    "r2base": "^1.0.1",
+    "supertest": "^3.0.0"
+  },
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "r2js",
+    "r2middleware",
+    "express",
+    "middleware",
+    "body-parser",
+    "compression",
+    "cookie-parser",
+    "cors",
+    "csurf",
+    "helmet",
+    "method-override",
+    "morgan",
+    "response-time"
+  ],
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/r2js/r2middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/r2js/r2middleware/issues"
+  },
+  "homepage": "https://github.com/r2js/r2middleware"
+}

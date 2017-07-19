@@ -1,7 +1,7 @@
 {
   "name": "r2middleware",
   "description": "Express middlewares for r2js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
@@ -10,12 +10,8 @@
   "dependencies": {
     "body-parser": "^1.17.1",
     "compression": "^1.6.2",
-    "cookie-parser": "^1.4.3",
-    "cors": "^2.8.3",
-    "csurf": "^1.9.0",
     "debug": "^2.6.3",
     "helmet": "^3.5.0",
-    "method-override": "^2.3.8",
     "morgan": "^1.8.1",
     "response-time": "^2.3.2",
     "underscore": "^1.8.3"
@@ -40,11 +36,7 @@
     "middleware",
     "body-parser",
     "compression",
-    "cookie-parser",
-    "cors",
-    "csurf",
     "helmet",
-    "method-override",
     "morgan",
     "response-time"
   ],

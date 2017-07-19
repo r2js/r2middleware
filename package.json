@@ -1,7 +1,7 @@
 {
   "name": "r2middleware",
   "description": "Express middlewares for r2js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
@@ -24,7 +24,7 @@
     "eslint-plugin-jsx-a11y": "^5.0.3",
     "eslint-plugin-react": "^7.0.1",
     "mocha": "^3.2.0",
-    "r2base": "^1.0.10",
+    "r2base": "^1.0.14",
     "supertest": "^3.0.0"
   },
   "main": "index.js",

@@ -1,7 +1,7 @@
 {
   "name": "r2middleware",
   "description": "Express middlewares for r2js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Selçuk Fatih Sevinç",
   "license": "MIT",
   "engines": {
